@@ -3,7 +3,7 @@ title: "Grove-Shield (Raspberry Pi)"
 date: "2018-10-01T15:03:37.000Z"
 tags: 
   - "shield"
-coverImage: "67_grove_shield_raspberrypi.jpg"
+coverImage: "67_grove_shield_raspberrypi.png"
 material_number: "67"
 material_type: "shield"
 material_short_descr: "GrovePi+"
