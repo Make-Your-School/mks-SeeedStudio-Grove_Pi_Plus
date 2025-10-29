@@ -16,6 +16,9 @@ repo_part: "Grove_Pi_Plus"
 product_url: "http://wiki.seeedstudio.com/GrovePi_Plus/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Pi_Plus.git"
 embedded_example_file: "examples/Grove_Pi_Plus_minimal/Grove_Pi_Plus_minimal.ino"
+title: 'Grove-Shield (Raspberry Pi)'
+status: 'active'
+difficulty: 'expert'
 ---
 
 
